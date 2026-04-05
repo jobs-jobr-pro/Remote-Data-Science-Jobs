@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Data scientist Jobs 2026
 
-<sub><small>Last updated: Apr 04, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 05, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Data scientist opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -20,6 +20,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Binance](https://www.binance.com/)** | **[Data Scientist (Search & Recommendation)](https://jobr.pro/job/40222369/data-scientist-search-recommendation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Asia | Remote | Apr 03 |
 | **[Netflix](https://www.netflix.com/)** | **[Senior Data Scientist (L5), Games DSE](https://jobr.pro/job/40219230/senior-data-scientist-l5-games-dse?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - Remote, United States | Remote | Apr 03 |
 | **[DICK'S Sporting Goods](https://www.dickssportinggoods.jobs/)** | **[Lead Data Scientist - Merchandising & Pricing (REMOTE)](https://jobr.pro/job/40220612/lead-data-scientist-merchandising-pricing-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US, United States | Remote | Apr 03 |
+| **[Allstate](https://www.allstate.com/)** | **[Senior Data Scientist - Agentic AI](https://jobr.pro/job/40226033/senior-data-scientist-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - IL (Remote), United States | Remote | Apr 03 |
+| **[Walmart](https://careers.walmart.com/)** | **[Senior, Data Scientist](https://jobr.pro/job/40226883/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | (USA) Sam's Home Office AR Bentonville Home Office, United States | Remote | Apr 03 |
 | **[Sleeper](https://sleeper.com/)** | **[Data Scientist- Platform Integrity](https://jobr.pro/job/40213714/data-scientist-platform-integrity?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, United States | Remote | Apr 02 |
 | **[Socure](https://www.socure.com/)** | **[Data Scientist II - Global Watchlist](https://jobr.pro/job/40213715/data-scientist-ii-global-watchlist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US | Remote | Apr 02 |
 | **[Community Health Systems](https://www.chs.net/)** | **[Oracle Enterprise Data Scientist - Remote](https://jobr.pro/job/40217251/oracle-enterprise-data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | Apr 02 |
@@ -56,7 +58,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 40 jobs | 100% remote | 37 companies | Avg salary: 410k  
+**Current Stats:** 42 jobs | 100% remote | 39 companies | Avg salary: 401k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, ai  
