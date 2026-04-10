@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Apr 09, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 10, 2026 at 13:01 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[B3 Consulting Poland](https://www.b3group.pl)** | **[Data Scientist](https://jobr.pro/job/40272691/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Fully Remote | Remote | Apr 10 |
+| **[Meta](https://www.meta.com/)** | **[Data Scientist, Product](https://jobr.pro/job/40272697/data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Menlo Park, CA \| Remote, US | Remote | Apr 10 |
+| **[Infrabel](https://www.infrabel.be)** | **[Data Scientist Operations](https://jobr.pro/job/40269286/data-scientist-operations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Saint-Gilles, BRU, BE, 1060 | Remote | Apr 10 |
+| **[Rentable](https://www.rentable.co/)** | **[Data Scientist](https://jobr.pro/job/40268643/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 09 |
+| **[Inovalon](https://www.inovalon.com/)** | **[Senior Health Data Scientist (EHR Real World Data)](https://jobr.pro/job/40268647/senior-health-data-scientist-ehr-real-world-data?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote- United States | Remote | Apr 09 |
+| **[Stone](https://www.stone.com.br/)** | **[Sênior/Lead Data Scientist](https://jobr.pro/job/40267840/seniorlead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remoto | Remote | Apr 09 |
+| **[Brisk Teaching](https://www.briskteaching.com/)** | **[Lead Data Scientist](https://jobr.pro/job/40268653/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco | Remote | Apr 09 |
+| **[Enova](https://www.enova.com/)** | **[Data Scientist - Portfolio Consumer (Hybrid)](https://jobr.pro/job/40269313/data-scientist-portfolio-consumer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Chicago, IL | Remote | Apr 09 |
+| **[Extend](https://www.extend.com/)** | **[Senior Data Scientist, Revenue Analytics](https://jobr.pro/job/40267907/senior-data-scientist-revenue-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, US | Remote | Apr 09 |
+| **[Deel](https://www.deel.com/)** | **[Data Scientist](https://jobr.pro/job/40268690/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Spain | Remote | Apr 09 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Data Scientist: Insights & Intelligence - Level 3](https://jobr.pro/job/40266250/data-scientist-insights-intelligence-level-3?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | VAFC01, United States | Remote | Apr 09 |
+| **[Vertex](https://www.vrtx.com/)** | **[Principal Data Scientist, Digital & AI](https://jobr.pro/job/40269371/principal-data-scientist-digital-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | 5000 - Vertex US - Fan Pier, United States | Remote | Apr 09 |
+| **[Multi Media LLC](https://multimediallc.com)** | **[Senior Data Scientist](https://jobr.pro/job/40269379/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States - Remote | Remote | Apr 09 |
 | **[NerdWallet](https://www.nerdwallet.com)** | **[Staff Data Scientist](https://jobr.pro/job/40259756/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | NerdWallet US | Remote | Apr 08 |
 | **[Coderio](https://coderio.com)** | **[Data Scientist AWS FP052KA](https://jobr.pro/job/40259757/data-scientist-aws-fp052ka?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Buenos Aires | Remote | Apr 08 |
 | **[0x](https://0x.org/)** | **[Data Scientist (GTM)](https://jobr.pro/job/40259759/data-scientist-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 08 |
@@ -32,7 +45,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Accordion](https://www.accordion.com/)** | **[Responsible AI Data Scientist](https://jobr.pro/job/40244465/responsible-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Chicago; New York | Remote | Apr 07 |
 | **[Lingokids](https://www.lingokids.com)** | **[Data Scientist (Experimentation & Personalization)](https://jobr.pro/job/40250472/data-scientist-experimentation-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Madrid, Spain | Remote | Apr 07 |
 | **[YLD](https://www.yld.io/)** | **[Contract Senior Data Scientist](https://jobr.pro/job/40246813/contract-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | EU Remote | Remote | Apr 07 |
-| **[Meta](https://www.meta.com/)** | **[Data Scientist, Product](https://jobr.pro/job/40238605/data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Menlo Park, CA \| Remote, US | Remote | Apr 07 |
 | **[Supermetrics](https://supermetrics.com/)** | **[Senior Data Scientist](https://jobr.pro/job/40247477/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United Kingdom | Remote | Apr 07 |
 | **[Binance](https://www.binance.com/)** | **[LLM Data Scientist/Algorithm Engineer](https://jobr.pro/job/40245498/llm-data-scientistalgorithm-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Asia | Remote | Apr 07 |
 | **[Mutt Data](https://muttdata.ai/)** | **[Data Scientist](https://jobr.pro/job/40245499/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Argentina | Remote | Apr 07 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bloomreach](https://www.bloomreach.com/)** | **[Senior Machine Learning Engineer / Data Scientist](https://jobr.pro/job/40227898/senior-machine-learning-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Slovakia | Remote | Apr 04 |
 | **[PAUL Tech AG](https://www.paul.tech/)** | **[Senior Data Scientist ML & Engineering (m/w/d)](https://jobr.pro/job/40224265/senior-data-scientist-ml-engineering-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Hybrid (68165, Mannheim, Baden-Württemberg, Deutschland) | Remote | Apr 04 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Data Scientist, Gen AI Automation](https://jobr.pro/job/40221445/sr-data-scientist-gen-ai-automation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Apr 03 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Scientist](https://jobr.pro/job/40222865/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Chicago, IL, United States | Remote | Apr 03 |
-| **[UCLA Health](https://www.uclahealth.org/)** | **[Bioinformatics Programmer /Data Scientist III](https://jobr.pro/job/40217194/bioinformatics-programmer-data-scientist-iii?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Flexible Hybrid | Remote | Apr 03 |
-| **[Binance](https://www.binance.com/)** | **[Data Scientist (Search & Recommendation)](https://jobr.pro/job/40222369/data-scientist-search-recommendation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Asia | Remote | Apr 03 |
-| **[Netflix](https://www.netflix.com/)** | **[Senior Data Scientist (L5), Games DSE](https://jobr.pro/job/40219230/senior-data-scientist-l5-games-dse?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - Remote, United States | Remote | Apr 03 |
-| **[DICK'S Sporting Goods](https://www.dickssportinggoods.jobs/)** | **[Lead Data Scientist - Merchandising & Pricing (REMOTE)](https://jobr.pro/job/40220612/lead-data-scientist-merchandising-pricing-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US, United States | Remote | Apr 03 |
-| **[Allstate](https://www.allstate.com/)** | **[Senior Data Scientist - Agentic AI](https://jobr.pro/job/40226033/senior-data-scientist-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - IL (Remote), United States | Remote | Apr 03 |
-| **[Walmart](https://careers.walmart.com/)** | **[Senior, Data Scientist](https://jobr.pro/job/40226883/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | (USA) Sam's Home Office AR Bentonville Home Office, United States | Remote | Apr 03 |
-| **[Sleeper](https://sleeper.com/)** | **[Data Scientist- Platform Integrity](https://jobr.pro/job/40213714/data-scientist-platform-integrity?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, United States | Remote | Apr 02 |
-| **[Socure](https://www.socure.com/)** | **[Data Scientist II - Global Watchlist](https://jobr.pro/job/40213715/data-scientist-ii-global-watchlist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US | Remote | Apr 02 |
-| **[Community Health Systems](https://www.chs.net/)** | **[Oracle Enterprise Data Scientist - Remote](https://jobr.pro/job/40217251/oracle-enterprise-data-scientist-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | Apr 02 |
-| **[Mozilla](https://www.mozilla.org/)** | **[Senior Marketing Data Scientist](https://jobr.pro/job/40212897/senior-marketing-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote Canada | Remote | Apr 02 |
-| **[Axle](https://axleinfo.com/)** | **[Data Scientist II](https://jobr.pro/job/40213211/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 46 companies | Avg salary: 253k  
+**Current Stats:** 50 jobs | 100% remote | 47 companies | Avg salary: 249k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
