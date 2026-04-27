@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Apr 26, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 27, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xenon7](https://xenon7.com)** | **[Senior Data Scientist](https://jobr.pro/job/40512365/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Egypt - Remote | Remote | Apr 26 |
 | **[Johnson Controls](https://www.johnsoncontrols.com/)** | **[Data Scientist / AI Engineer (hybrid)](https://jobr.pro/job/40493655/data-scientist-ai-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | PA New Freedom, United States | Remote | Apr 24 |
 | **[ING](https://www.ing.com/)** | **[Senior Data Scientist](https://jobr.pro/job/40465957/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Madrid (Vía de los Poblados), Spain | Remote | Apr 23 |
 | **[Socure](https://www.socure.com/)** | **[Data Scientist II - Big Data R&D, Identity Graph & KYC](https://jobr.pro/job/40476967/data-scientist-ii-big-data-rd-identity-graph-kyc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US | Remote | Apr 23 |
@@ -48,24 +49,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Airbnb](https://www.airbnb.com/)** | **[Senior Staff Data Scientist, Guest & Host Marketplace AI](https://jobr.pro/job/40442321/senior-staff-data-scientist-guest-host-marketplace-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 20 |
 | **[KoBold Metals](https://www.koboldmetals.com/)** | **[Data Scientist - (Global)](https://jobr.pro/job/40455393/data-scientist-global?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 20 |
 | **[Globalization Partners](https://globalization-partners.com/)** | **[Senior Data Scientist & Engineer](https://jobr.pro/job/40455396/senior-data-scientist-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | India (Remote-First) | Remote | Apr 20 |
-| **[SiteMinder](https://www.siteminder.com/)** | **[Data Scientist](https://jobr.pro/job/40454309/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Pune | Remote | Apr 20 |
-| **[Bayesian Health](https://www.bayesianhealth.com/)** | **[Senior/Staff Machine Learning Data Scientist](https://jobr.pro/job/40453748/seniorstaff-machine-learning-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US Only | Remote | Apr 20 |
-| **[Allstate](https://www.allstate.com/)** | **[Data Scientist Senior Consultant I](https://jobr.pro/job/40441117/data-scientist-senior-consultant-i?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - NC (Remote), United States | Remote | Apr 20 |
-| **[Unknown Company](https://www.li.me/)** | **[Senior Data Scientist, City and Vehicle Tech](https://jobr.pro/job/40443074/senior-data-scientist-city-and-vehicle-tech?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | Apr 20 |
-| **[Netflix](https://www.netflix.com/)** | **[Senior Data Scientist Manager - Games Product and Platform](https://jobr.pro/job/40446353/senior-data-scientist-manager-games-product-and-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - Remote, United States | Remote | Apr 20 |
-| **[FOX Corporation](https://www.foxcorporation.com/)** | **[Data Scientist](https://jobr.pro/job/40450528/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | USA - CA - Los Angeles - 10201 W. Pico Blvd, United States | Remote | Apr 20 |
-| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Sr. Data Scientist](https://jobr.pro/job/40446243/sr-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | India, Bengaluru, Karnataka | Remote | Apr 20 |
-| **[M&T Bank](https://www.mtb.com/)** | **[Data Scientist III - Enterprise Risk (Hybrid - Buffalo, NY)](https://jobr.pro/job/40450529/data-scientist-iii-enterprise-risk-hybrid-buffalo-ny?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Buffalo, NY, United States | Remote | Apr 20 |
-| **[Ivy Rehab Network](https://ivyrehab.com/)** | **[Data Scientist, People & Workforce Analytics](https://jobr.pro/job/40446234/data-scientist-people-workforce-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | PA Philadelphia, United States | Remote | Apr 20 |
-| **[Harmonic Security, Inc](https://www.harmonic.security/)** | **[Data Scientist](https://jobr.pro/job/40460860/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United Kingdom 100% Remote | Remote | Apr 20 |
-| **[Mission Lane](https://www.missionlane.com/)** | **[Principal Data Scientist, Operations](https://jobr.pro/job/40436806/principal-data-scientist-operations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, United States | Remote | Apr 19 |
 
 ---
 
-**Current Stats:** 46 jobs | 100% remote | 40 companies | Avg salary: 4.000005666672333e+169k  
+**Current Stats:** 36 jobs | 100% remote | 31 companies | Avg salary: 5.000007083340417e+133k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** machine learning, ai  
+**Trending Skills:** ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
