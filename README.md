@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -16,7 +16,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[YipitData](https://yipitdata.com)** | **[Data Scientist](https://jobr.pro/job/40574520/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 01 |
 | **[YipitData](https://yipitdata.com)** | **[AI Engineer](https://jobr.pro/job/40574518/ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 01 |
 | **[Temporal Technologies]()** | **[Staff Software Engineer - AI SDK](https://jobr.pro/job/40578876/staff-software-engineer-ai-sdk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States, Remote Opportunity | Remote | May 01 |
+| **[Campminder](https://campminder.com)** | **[Senior AI Platform Engineer](https://jobr.pro/job/40581797/senior-ai-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Boulder, CO or remote | Remote | May 01 |
 | **[Veeam Software](https://veeam.com)** | **[Business Intelligence Analyst](https://jobr.pro/job/40574619/business-intelligence-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, United States | Remote | May 01 |
+| **[Protegrity](https://www.protegrity.com)** | **[Machine Learning Engineer (PhD or MS Required) 756](https://jobr.pro/job/40584714/machine-learning-engineer-phd-or-ms-required-756?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Palo Alto, CA | Remote | May 01 |
 | **[Unknown Company](https://peek.com)** | **[Senior Data Engineer](https://jobr.pro/job/40572408/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Mexico City | Remote | May 01 |
 | **[Dave](https://dave.com/)** | **[Lead/Staff AI Acceleration Engineer](https://jobr.pro/job/40580748/leadstaff-ai-acceleration-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | May 01 |
 | **[General Assembly](https://generalassemb.ly)** | **[Lead Instructor: MLOps / AI Platform Engineering](https://jobr.pro/job/40571820/lead-instructor-mlops-ai-platform-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | U.S. Remote | Remote | May 01 |
@@ -28,9 +30,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Kaseya Careers](https://kaseya.com)** | **[Sr. Data Analyst](https://jobr.pro/job/40571882/sr-data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States - Remote | Remote | May 01 |
 | **[SecurityScorecard](https://securityscorecard.com)** | **[Staff Data Engineer](https://jobr.pro/job/40575320/staff-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote (Canada) | Remote | May 01 |
 | **[Govini](https://govini.com)** | **[Forward Deployed Senior Data Scientist](https://jobr.pro/job/40571136/forward-deployed-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Arlington, Virginia, United States; Pittsburgh, Pennsylvania, United States; Remote | Remote | May 01 |
+| **[Empower Pharmacy](https://empowerpharmacy.com)** | **[Staff Data Scientist](https://jobr.pro/job/40583715/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US Remote | Remote | May 01 |
 | **[ARQ](https://arqfinance.com)** | **[Data Analyst - New York](https://jobr.pro/job/40567271/data-analyst-new-york?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York | Remote | May 01 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Data Engineer](https://jobr.pro/job/40571169/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Indonesia | Remote | May 01 |
 | **[ARQ](https://arqfinance.com)** | **[Data Analyst - Krakow](https://jobr.pro/job/40567270/data-analyst-krakow?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Krakow | Remote | May 01 |
+| **[Infinity](https://infinityconstellation.com)** | **[Junior AI Engineer (Clients) - Supernal](https://jobr.pro/job/40584652/junior-ai-engineer-clients-supernal?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 01 |
 | **[G2i](https://www.g2i.co/)** | **[AI Evaluator for Software Engineering - US and Canada only](https://jobr.pro/job/40568749/ai-evaluator-for-software-engineering-us-and-canada-only?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Miami | Remote | May 01 |
 | **[Federato](https://federato.ai)** | **[Forward Deployed Machine Learning Engineer](https://jobr.pro/job/40568091/forward-deployed-machine-learning-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 30 |
 | **[Ironclad](https://ironcladapp.com/)** | **[Staff Software Engineer, AI - Elite Squad Team](https://jobr.pro/job/40565708/staff-software-engineer-ai-elite-squad-team?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco | Remote | Apr 30 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unknown Company](https://www.kraken.com/)** | **[Data Analyst, Product](https://jobr.pro/job/40555244/data-analyst-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Spain | Remote | Apr 30 |
 | **[Unknown Company]()** | **[Senior Full Stack / Applied AI Engineer (Remote, Full-Time), PK \[AS216\]](https://jobr.pro/job/40553496/senior-full-stack-applied-ai-engineer-remote-full-time-pk-as216?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Pakistan | Remote | Apr 30 |
 | **[Unknown Company]()** | **[Senior Full Stack / Applied AI Engineer (Remote, Full-Time), India \[AS216\]](https://jobr.pro/job/40553495/senior-full-stack-applied-ai-engineer-remote-full-time-india-as216?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | India | Remote | Apr 30 |
-| **[Unknown Company]()** | **[Senior Full Stack / Applied AI Engineer (Remote, Full-Time) \[AS216\]](https://jobr.pro/job/40553494/senior-full-stack-applied-ai-engineer-remote-full-time-as216?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | India | Remote | Apr 30 |
-| **[Cribl](https://cribl.io)** | **[Sr Software Engineer, Cribl AI](https://jobr.pro/job/40552390/sr-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | Apr 30 |
-| **[Federato](https://federato.ai)** | **[Staff Software Engineer, AI Systems](https://jobr.pro/job/40552402/staff-software-engineer-ai-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Apr 30 |
-| **[Twilio](https://twilio.com)** | **[Staff, Data Scientist (L4) GTM Data Science & Analytics](https://jobr.pro/job/40551715/staff-data-scientist-l4-gtm-data-science-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - US | Remote | Apr 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 25 companies | Avg salary: 1.591580583684842e+110k  
+**Current Stats:** 50 jobs | 100% remote | 27 companies | Avg salary: 1.4400010238110043e+121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
