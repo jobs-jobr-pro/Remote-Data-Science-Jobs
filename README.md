@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,10 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Staff Data Scientist, Algorithm - Financial Markets](https://jobr.pro/job/40706433/staff-data-scientist-algorithm-financial-markets?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US - San Francisco | Remote | May 11 |
+| **[Adf Medical Services Inc]()** | **[Data Analyst](https://jobr.pro/job/40713268/data-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Toronto, Ontario, Canada | Remote | May 10 |
+| **[Adf Medical Services Inc]()** | **[Data Analyst-Part time](https://jobr.pro/job/40713273/data-analyst-part-time?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Washington, District of Columbia, United States | Remote | May 10 |
 | **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | May 09 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Data Engineer](https://jobr.pro/job/40689119/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Singapore | Remote | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - Data Security, Commercial](https://jobr.pro/job/40686240/senior-specialist-sales-engineer-data-security-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | May 09 |
 | **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - Data Security, SLED/Healthcare](https://jobr.pro/job/40686239/principal-specialist-sales-engineer-data-security-sledhealthcare?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | May 09 |
+| **[Mindrift](https://mindrift.ai)** | **[Quantum Research Scientist with Python - Freelance AI Trainer](https://jobr.pro/job/40711444/quantum-research-scientist-with-python-freelance-ai-trainer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Metro Manila, Philippines | Remote | May 09 |
 | **[Cadence Health](https://cadencehealth.com)** | **[Senior Software Engineer, Agentic AI](https://jobr.pro/job/40695208/senior-software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 08 |
 | **[Life360](https://life360.com)** | **[Sr. Staff AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687235/sr-staff-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, USA | Remote | May 08 |
 | **[Life360](https://life360.com)** | **[Principal AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687231/principal-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, USA | Remote | May 08 |
@@ -41,6 +45,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Abound](https://www.getabound.com)** | **[Data Scientist](https://jobr.pro/job/40689244/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Madrid | Remote | May 08 |
 | **[Reddit](https://reddit.com)** | **[Senior Staff Machine Learning Engineer, Feed Relevance](https://jobr.pro/job/40681576/senior-staff-machine-learning-engineer-feed-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | May 08 |
 | **[Defense Unicorns](https://defenseunicorns.com)** | **[Forward Deployed AI Engineer](https://jobr.pro/job/40682179/forward-deployed-ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States - Remote | Remote | May 08 |
+| **[Poshmark](https://poshmark.com/)** | **[Sr. Lead Data Analyst (Shows & Merchandising)](https://jobr.pro/job/40703880/sr-lead-data-analyst-shows-merchandising?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US California (Redwood City) - Office | Remote | May 08 |
 | **[Goodway Group](https://goodwaygroup.com)** | **[Global Data Engineer](https://jobr.pro/job/40679845/global-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 08 |
 | **[MQ Referrals Only]()** | **[Senior Software Engineer - Data Infrastructure](https://jobr.pro/job/40683298/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, USA | Remote | May 08 |
 | **[Marqeta](https://marqeta.com)** | **[Senior Software Engineer - Data Infrastructure](https://jobr.pro/job/40682445/senior-software-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, USA | Remote | May 08 |
@@ -58,18 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tech Holding](https://techholding.co)** | **[ML / AI Data Engineer (Contract)](https://jobr.pro/job/40675030/ml-ai-data-engineer-contract?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | India, Remote | Remote | May 08 |
 | **[Deel](https://www.deel.com/)** | **[Data Analyst](https://jobr.pro/job/40674544/data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Spain | Remote | May 08 |
 | **[Deel \| Global Payroll, Compliance, HR Solutions \| HRIS](https://www.deel.com/)** | **[Data Analyst](https://jobr.pro/job/40674628/data-analyst-?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Spain | Remote | May 08 |
-| **[Plaud.ai US](http://plaud.ai)** | **[Machine Learning Engineer, Model Evaluations (Speech LLM) - San Francisco](https://jobr.pro/job/40674203/machine-learning-engineer-model-evaluations-speech-llm-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA | Remote | May 08 |
-| **[Plaud.ai US](http://plaud.ai)** | **[Machine Learning Engineer, Inference & Serving (Speech LLM) - San Francisco](https://jobr.pro/job/40674202/machine-learning-engineer-inference-serving-speech-llm-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA | Remote | May 08 |
-| **[Plaud.ai US](http://plaud.ai)** | **[Machine Learning Engineer, Speech LLM Training - San Francisco](https://jobr.pro/job/40674201/machine-learning-engineer-speech-llm-training-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA | Remote | May 08 |
-| **[G2i](https://www.g2i.co/)** | **[Senior Software Engineer - AI Interaction Evaluator (Codex / Claude Code, up to $200/hr)](https://jobr.pro/job/40673346/senior-software-engineer-ai-interaction-evaluator-codex-claude-code-up-to-200hr?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Miami | Remote | May 08 |
-| **[Openai](https://openai.com/)** | **[AI Deployment Engineer, Codex \| Singapore](https://jobr.pro/job/40673256/ai-deployment-engineer-codex-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Singapore | Remote | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 42 companies | Avg salary: 8.850009750009801e+144k  
+**Current Stats:** 50 jobs | 100% remote | 44 companies | Avg salary: 1.086957483696712e+133k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** machine learning, ai  
+**Trending Skills:** machine learning, python, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
