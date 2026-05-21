@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Talkiatry](https://www.talkiatry.com)** | **[Senior Product Data Scientist](https://jobr.pro/job/40878587/senior-product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 20 |
+| **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Data Scientist](https://jobr.pro/job/40875719/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 20 |
 | **[Neara](https://neara.com/physics-enabled-digital-twin/)** | **[Data Scientist](https://jobr.pro/job/40872139/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York City | Remote | May 20 |
 | **[UptimeAI](https://uptimeai.com)** | **[Senior Data Scientist](https://jobr.pro/job/40872603/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Bangalore (India) | Remote | May 20 |
 | **[Reddit](https://redditinc.com)** | **[Staff Data Scientist, Safety Insights](https://jobr.pro/job/40857515/staff-data-scientist-safety-insights?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | May 20 |
@@ -44,11 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Senior Data Scientist - UK Cards](https://jobr.pro/job/40786762/senior-data-scientist-uk-cards?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 14 |
 | **[BeyondTrust](https://beyondtrustholidays.com)** | **[Staff AI Data Scientist](https://jobr.pro/job/40832581/staff-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote Canada \| Remote United States | Remote | May 14 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Data Scientist - UK Cards](https://jobr.pro/job/40782550/data-scientist-uk-cards?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 14 |
-| **[Oportun](https://m2crowd.com)** | **[Senior Data Scientist (R14015)](https://jobr.pro/job/40820445/senior-data-scientist-r14015?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - India | Remote | May 14 |
 
 ---
 
-**Current Stats:** 32 jobs | 100% remote | 23 companies | Avg salary: 1.4615407992334615e+73k  
+**Current Stats:** 33 jobs | 100% remote | 24 companies | Avg salary: 1.2857156428593137e+79k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
