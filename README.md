@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Neara](https://neara.com/physics-enabled-digital-twin/)** | **[Data Scientist](https://jobr.pro/job/40872139/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York City | Remote | May 20 |
+| **[UptimeAI](https://uptimeai.com)** | **[Senior Data Scientist](https://jobr.pro/job/40872603/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Bangalore (India) | Remote | May 20 |
 | **[Reddit](https://redditinc.com)** | **[Staff Data Scientist, Safety Insights](https://jobr.pro/job/40857515/staff-data-scientist-safety-insights?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | May 20 |
+| **[RYZ Labs](https://ryzlabs.com)** | **[Data Scientist](https://jobr.pro/job/40873495/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Argentina | Remote | May 19 |
 | **[replit](https://replit.io)** | **[Data Scientist, People](https://jobr.pro/job/40859196/data-scientist-people?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Foster City, CA | Remote | May 19 |
 | **[Replit](http://replit.com)** | **[Data Scientist, People](https://jobr.pro/job/40855239/data-scientist-people?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Foster City, CA | Remote | May 19 |
 | **[Rundoo](https://rundoo.ai)** | **[Senior Data Scientist](https://jobr.pro/job/40853485/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 19 |
@@ -42,18 +45,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BeyondTrust](https://beyondtrustholidays.com)** | **[Staff AI Data Scientist](https://jobr.pro/job/40832581/staff-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote Canada \| Remote United States | Remote | May 14 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Data Scientist - UK Cards](https://jobr.pro/job/40782550/data-scientist-uk-cards?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 14 |
 | **[Oportun](https://m2crowd.com)** | **[Senior Data Scientist (R14015)](https://jobr.pro/job/40820445/senior-data-scientist-r14015?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - India | Remote | May 14 |
-| **[Mindrift](https://mindrift.io)** | **[Data Scientist (Python & SQL) - Freelance AI Trainer](https://jobr.pro/job/40788686/data-scientist-python-sql-freelance-ai-trainer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Austria | Remote | May 14 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Sr. Data Scientist, Trust and Safety](https://jobr.pro/job/40769850/sr-data-scientist-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, CA, US | Remote | May 13 |
-| **[Veracyte](https://veracyte.com)** | **[Data Scientist III - Temporary](https://jobr.pro/job/40770248/data-scientist-iii-temporary?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 13 |
-| **[OpenAI](https://openai.com/)** | **[Data Scientist, Core Experimentation](https://jobr.pro/job/40828589/data-scientist-core-experimentation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Seattle | Remote | May 13 |
-| **[INFINITY CONSTELLATION](https://www.infinityconstellation.com/)** | **[Index Data Scientist - Red Tape Index](https://jobr.pro/job/40763716/index-data-scientist-red-tape-index?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 13 |
 
 ---
 
-**Current Stats:** 34 jobs | 100% remote | 23 companies | Avg salary: 2.0260023333356667e+85k  
+**Current Stats:** 32 jobs | 100% remote | 23 companies | Avg salary: 1.4615407992334615e+73k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** machine learning, sql, python, ai  
+**Trending Skills:** machine learning, ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
