@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 29, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Included Health](https://includedhealth.com/)** | **[Data Scientist II](https://jobr.pro/job/40986344/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 29 |
+| **[HealthCare](https://www.healthcare.gov/)** | **[Senior Applied AI Data Scientist](https://jobr.pro/job/40986274/senior-applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 29 |
+| **[2016–2026](https://wealthsimple.com)** | **[Senior Data Scientist, Crypto](https://jobr.pro/job/40985080/senior-data-scientist-crypto?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote (Canada) | Remote | May 29 |
+| **[AppOmni](https://appomni.com)** | **[Lead Data Scientist](https://jobr.pro/job/40987993/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | May 29 |
+| **[Capgemini](https://capgemini.com)** | **[FBS - Data Scientist Predictive Analyst (Mid Level)](https://jobr.pro/job/40985258/fbs-data-scientist-predictive-analyst-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Mexico | Remote | May 29 |
 | **[Promise](https://Promise.io)** | **[Data Scientist - AI](https://jobr.pro/job/40975241/data-scientist-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco | Remote | May 28 |
 | **[Neon Pagamentos](https://www.atom.com/name/Neon.io)** | **[Staff Data Scientist I \| Risco de Crédito](https://jobr.pro/job/40970137/staff-data-scientist-i-risco-de-credito?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remoto | Remote | May 28 |
+| **[MCA Connect](https://mcaconnect.com)** | **[Azure Senior Data Scientist](https://jobr.pro/job/40978833/azure-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 28 |
 | **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job - 29613\] Data Scientist, Brazil](https://jobr.pro/job/40966516/job-29613-data-scientist-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil | Remote | May 28 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Principal Data Scientist](https://jobr.pro/job/40969279/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 28 |
 | **[Docplanner](https://www.docplanner.com/)** | **[Senior Data Scientist](https://jobr.pro/job/40966612/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Spain | Remote | May 28 |
@@ -39,11 +45,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TRM Labs](https://www.trmlabs.com/)** | **[Senior Data Scientist, Full Stack (LATAM)](https://jobr.pro/job/40928558/senior-data-scientist-full-stack-latam?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | South America | Remote | May 25 |
 | **[Accelerate ‎Your Digital Transformation](https://www.truelogic.io)** | **[Senior Data Scientist - Real Estate](https://jobr.pro/job/40927050/senior-data-scientist-real-estate?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | LatAm | Remote | May 25 |
 | **[Tiger Analytics Inc.](https://www.tigeranalytics.com/)** | **[Senior Data Scientist - Operation Research](https://jobr.pro/job/40928630/senior-data-scientist-operation-research?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Toronto, Ontario, Canada | Remote | May 25 |
-| **[Toptal](https://www.toptal.com/)** | **[Talent Network: Lead Data Scientist](https://jobr.pro/job/40907866/talent-network-lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Anywhere in Europe and South America | Remote | May 22 |
 
 ---
 
-**Current Stats:** 27 jobs | 100% remote | 24 companies | Avg salary: 2.6875020875064374e+43k  
+**Current Stats:** 32 jobs | 100% remote | 29 companies | Avg salary: 1.6907599083353333e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
