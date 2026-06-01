@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -22,13 +22,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Neon Pagamentos](https://www.atom.com/name/Neon.io)** | **[Staff Data Scientist I \| Risco de Crédito](https://jobr.pro/job/40970137/staff-data-scientist-i-risco-de-credito?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remoto | Remote | May 28 |
 | **[MCA Connect](https://mcaconnect.com)** | **[Azure Senior Data Scientist](https://jobr.pro/job/40978833/azure-senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 28 |
 | **[CI&T](https://www.citi.com/banking/bank-accounts)** | **[\[Job - 29613\] Data Scientist, Brazil](https://jobr.pro/job/40966516/job-29613-data-scientist-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil | Remote | May 28 |
+| **[Lendable](https://www.lendable.co.uk/)** | **[Principal Data Scientist](https://jobr.pro/job/40997313/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 28 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Principal Data Scientist](https://jobr.pro/job/40969279/principal-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 28 |
 | **[Docplanner](https://www.docplanner.com/)** | **[Senior Data Scientist](https://jobr.pro/job/40966612/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Spain | Remote | May 28 |
+| **[Lendable](https://www.lendable.co.uk/)** | **[Lead Data Scientist - Recommendation System](https://jobr.pro/job/40997312/lead-data-scientist-recommendation-system?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 28 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Lead Data Scientist - Recommendation System](https://jobr.pro/job/40963670/lead-data-scientist-recommendation-system?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | May 28 |
 | **[Saalex](https://saalex.com/)** | **[Data Scientist](https://jobr.pro/job/40969225/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Ridgecrest, California, United States | Remote | May 28 |
 | **[Futureproofing](https://www.futureproofing.dev/)** | **[AI Data Scientist](https://jobr.pro/job/40955074/ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Peru - Lima | Remote | May 27 |
 | **[OpenAI](https://openai.com/)** | **[Data Scientist, FinEng](https://jobr.pro/job/40953663/data-scientist-fineng?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco | Remote | May 27 |
 | **[Business Identity & KYB Platform](https://middesk.com)** | **[Lead Data Scientist](https://jobr.pro/job/40958132/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco | Remote | May 27 |
+| **[Lendable](https://www.lendable.co.uk/)** | **[Senior Data Scientist - UK Cards](https://jobr.pro/job/40997310/senior-data-scientist-uk-cards?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London/Kent | Remote | May 27 |
 | **[Fast loans at fair rates](https://www.lendable.co.uk/)** | **[Senior Data Scientist - UK Cards](https://jobr.pro/job/40948358/senior-data-scientist-uk-cards?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London/Kent | Remote | May 27 |
 | **[United Tech](https://www.unitedtechno.com/)** | **[Data Scientist](https://jobr.pro/job/40947240/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kyiv | Remote | May 27 |
 | **[KPI Solutions](https://kpisolutions.com/)** | **[Advanced Solution Development Data Scientist](https://jobr.pro/job/40956149/advanced-solution-development-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | May 27 |
@@ -44,11 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tiger Analytics Inc.](https://www.tigeranalytics.com/)** | **[Senior Data Scientist - GenAI](https://jobr.pro/job/40935702/senior-data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Chicago, Illinois, United States | Remote | May 26 |
 | **[TRM Labs](https://www.trmlabs.com/)** | **[Senior Data Scientist, Full Stack (LATAM)](https://jobr.pro/job/40928558/senior-data-scientist-full-stack-latam?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | South America | Remote | May 25 |
 | **[Accelerate ‎Your Digital Transformation](https://www.truelogic.io)** | **[Senior Data Scientist - Real Estate](https://jobr.pro/job/40927050/senior-data-scientist-real-estate?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | LatAm | Remote | May 25 |
-| **[Tiger Analytics Inc.](https://www.tigeranalytics.com/)** | **[Senior Data Scientist - Operation Research](https://jobr.pro/job/40928630/senior-data-scientist-operation-research?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Toronto, Ontario, Canada | Remote | May 25 |
 
 ---
 
-**Current Stats:** 32 jobs | 100% remote | 29 companies | Avg salary: 1.6907599083353333e+67k  
+**Current Stats:** 34 jobs | 100% remote | 30 companies | Avg salary: 1.6907599083353333e+67k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
