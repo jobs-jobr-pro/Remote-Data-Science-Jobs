@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 05, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -44,15 +44,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reddit](https://reddit.com)** | **[Senior Staff Data Scientist - Consumer Relevance](https://jobr.pro/job/41006258/senior-staff-data-scientist-consumer-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - Ontario, Canada | Remote | Jun 01 |
 | **[Reddit](https://reddit.com)** | **[Senior Staff Data Scientist - Consumer Experimentation](https://jobr.pro/job/41006257/senior-staff-data-scientist-consumer-experimentation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | Jun 01 |
 | **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Senior Data Scientist](https://jobr.pro/job/41010195/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | Jun 01 |
-| **[Included Health](https://includedhealth.com/)** | **[Data Scientist II](https://jobr.pro/job/40986344/data-scientist-ii?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 29 |
-| **[HealthCare](https://www.healthcare.gov/)** | **[Senior Applied AI Data Scientist](https://jobr.pro/job/40986274/senior-applied-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | May 29 |
-| **[2016–2026](https://wealthsimple.com)** | **[Senior Data Scientist, Crypto](https://jobr.pro/job/40985080/senior-data-scientist-crypto?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote (Canada) | Remote | May 29 |
-| **[AppOmni](https://appomni.com)** | **[Lead Data Scientist](https://jobr.pro/job/40987993/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | May 29 |
-| **[adjoe](https://adjoe.io)** | **[Senior Data Scientist (f/m/d)](https://jobr.pro/job/41013726/senior-data-scientist-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Hamburg | Remote | May 29 |
 
 ---
 
-**Current Stats:** 36 jobs | 100% remote | 31 companies | Avg salary: 1.8333350750019168e+67k  
+**Current Stats:** 31 jobs | 100% remote | 26 companies | Avg salary: 2.4444467666692224e+49k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, ai  
