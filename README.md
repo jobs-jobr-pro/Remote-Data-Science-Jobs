@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Campus](https://campus.edu/)** | **[Staff Data Scientist](https://jobr.pro/job/41071228/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Campus NYC | Remote | Jun 07 |
 | **[Anaplan](https://anaplan.com)** | **[Principal AI Data Scientist](https://jobr.pro/job/41064765/principal-ai-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Pennsylvania-Remote, United States | Remote | Jun 06 |
 | **[Anaplan](https://anaplan.com)** | **[Principal Data Scientist - AI](https://jobr.pro/job/41064766/principal-data-scientist-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Pennsylvania-Remote, United States | Remote | Jun 06 |
 | **[Cordial Experience Inc.](https://cordial.com)** | **[Data Scientist - Production Engineering](https://jobr.pro/job/41064941/data-scientist-production-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote (US) | Remote | Jun 05 |
@@ -50,7 +51,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 34 jobs | 100% remote | 28 companies | Avg salary: 1.75000220000209e+55k  
+**Current Stats:** 35 jobs | 100% remote | 29 companies | Avg salary: 2.1818197727292727e+61k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** sql, python, ai  
