@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sift](https://www.sift.co.uk/)** | **[Staff Data Scientist](https://jobr.pro/job/41075493/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | Jun 08 |
 | **[2016–2026](https://wealthsimple.com)** | **[Senior Data Scientist, Sales](https://jobr.pro/job/41072443/senior-data-scientist-sales?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote (Canada) | Remote | Jun 08 |
 | **[Bedrock Robotics](https://bedrockrobotics.com)** | **[Data Scientist](https://jobr.pro/job/41072253/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, NY | Remote | Jun 08 |
 | **[Veriff](https://veriff.com)** | **[Senior Data Scientist](https://jobr.pro/job/41072457/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Tallinn, Spain (Remote) | Remote | Jun 08 |
@@ -43,20 +44,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bettermile](https://bettermile.com/)** | **[Senior Data Scientist - Better Places (d/f/m)](https://jobr.pro/job/41012842/senior-data-scientist-better-places-dfm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Better Place, Oranienstraße 183, Berlin | Remote | Jun 02 |
 | **[GOTO Group](https://www.gotogroup.co.uk/)** | **[Data Scientist Intern](https://jobr.pro/job/41017057/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Jakarta | Remote | Jun 02 |
 | **[Robots and Pencils](https://robotsandpencils.com)** | **[Data Scientist](https://jobr.pro/job/41010498/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US - Remote | Remote | Jun 02 |
-| **[Mindrift](https://mindrift.ai)** | **[Data Scientist (Python & SQL) - Freelance AI Trainer](https://jobr.pro/job/41012392/data-scientist-python-sql-freelance-ai-trainer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Wisconsin, United States | Remote | Jun 02 |
-| **[ClinChoice](https://clinchoice.com/)** | **[Senior Real-World Data Analytics Consultant/Senior Data Scientist Consultant (Remote)](https://jobr.pro/job/41006222/senior-real-world-data-analytics-consultantsenior-data-scientist-consultant-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | Jun 01 |
-| **[ZoomLogi](https://zoomlogi.com)** | **[Founding Data Scientist](https://jobr.pro/job/41017636/founding-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco HQ | Remote | Jun 01 |
-| **[Quora](https://careers.quora.com/)** | **[Staff Data Scientist - Quora (Remote)](https://jobr.pro/job/41005832/staff-data-scientist-quora-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - Multiple Locations | Remote | Jun 01 |
-| **[iSpot](https://ispot.tv)** | **[Data Scientist](https://jobr.pro/job/41007859/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 01 |
-| **[Reddit](https://reddit.com)** | **[Senior Staff Data Scientist - Consumer Relevance](https://jobr.pro/job/41006258/senior-staff-data-scientist-consumer-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - Ontario, Canada | Remote | Jun 01 |
-| **[Reddit](https://reddit.com)** | **[Senior Staff Data Scientist - Consumer Experimentation](https://jobr.pro/job/41006257/senior-staff-data-scientist-consumer-experimentation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - United States | Remote | Jun 01 |
 
 ---
 
-**Current Stats:** 37 jobs | 100% remote | 31 companies | Avg salary: 1.5750020000014584e+67k  
+**Current Stats:** 31 jobs | 100% remote | 26 companies | Avg salary: 2.944446544447111e+49k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** sql, python, ai  
+**Trending Skills:** ai  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
