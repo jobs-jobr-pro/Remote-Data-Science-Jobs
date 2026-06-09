@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -33,6 +33,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Tyba](https://www.tyba.ai/)** | **[Data Scientist](https://jobr.pro/job/41041786/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | SF Bay Area | Remote | Jun 03 |
 | **[Instructure](https://instructure.io)** | **[Senior Data Scientist, AI Platform](https://jobr.pro/job/41035209/senior-data-scientist-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
 | **[Instructure](https://instructure.io)** | **[Senior Applied Data Scientist, Retrieval and Semantic Systems](https://jobr.pro/job/41035211/senior-applied-data-scientist-retrieval-and-semantic-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
+| **[Ramp](https://rampcil.org)** | **[Data Scientist](https://jobr.pro/job/41078219/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, NY (HQ) | Remote | Jun 03 |
 | **[Instructure](https://instructure.io)** | **[Senior Applied Data Scientist, Learner Modeling](https://jobr.pro/job/41035210/senior-applied-data-scientist-learner-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Budapest, Hungary | Remote | Jun 03 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29597\] Senior Data Scientist , Brazil](https://jobr.pro/job/41029223/job-29597-senior-data-scientist-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil | Remote | Jun 03 |
 | **[Coderi Del Xúquer](https://coderi.org)** | **[SR Data Scientist AWS (Arg, Col, Perú)](https://jobr.pro/job/41031044/sr-data-scientist-aws-arg-col-peru?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Buenos Aires | Remote | Jun 03 |
@@ -42,12 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coderi Del Xúquer](https://coderi.org)** | **[Data Scientist AWS](https://jobr.pro/job/41023254/data-scientist-aws?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Santiago de Chile | Remote | Jun 02 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29646\] Senior Data Scientist, Brazil](https://jobr.pro/job/41016430/job-29646-senior-data-scientist-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil | Remote | Jun 02 |
 | **[Bettermile](https://bettermile.com/)** | **[Senior Data Scientist - Better Places (d/f/m)](https://jobr.pro/job/41012842/senior-data-scientist-better-places-dfm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Better Place, Oranienstraße 183, Berlin | Remote | Jun 02 |
-| **[GOTO Group](https://www.gotogroup.co.uk/)** | **[Data Scientist Intern](https://jobr.pro/job/41017057/data-scientist-intern?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Jakarta | Remote | Jun 02 |
-| **[Robots and Pencils](https://robotsandpencils.com)** | **[Data Scientist](https://jobr.pro/job/41010498/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US - Remote | Remote | Jun 02 |
 
 ---
 
-**Current Stats:** 31 jobs | 100% remote | 26 companies | Avg salary: 2.944446544447111e+49k  
+**Current Stats:** 30 jobs | 100% remote | 25 companies | Avg salary: 2.6500018900024e+55k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
