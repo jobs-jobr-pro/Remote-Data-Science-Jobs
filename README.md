@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 11, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 11, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://nplatform.devoteam.com/)** | **[Senior Data scientist H/F](https://jobr.pro/job/41147076/senior-data-scientist-hf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lille, Hauts-de-France, France | Remote | Jun 11 |
 | **[Serve Robotics](https://serverobotics.com)** | **[Senior Data Scientist, Machine Learning](https://jobr.pro/job/41143386/senior-data-scientist-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US- remote | Remote | Jun 11 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Data Scientist, Ads Product](https://jobr.pro/job/41138422/staff-data-scientist-ads-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 10 |
 | **[Simple Technology Solutions](https://www.simpletechnology.io)** | **[Mid-Level Data Scientist](https://jobr.pro/job/41136978/mid-level-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 10 |
@@ -59,11 +60,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Multiverse](https://multiverse.io)** | **[Senior Data Scientist](https://jobr.pro/job/41041874/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | Jun 04 |
 | **[Abound](https://www.getabound.com)** | **[Graduate Data Scientist](https://jobr.pro/job/41049515/graduate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | Jun 04 |
 | **[MDCalc](https://mdcalc.com)** | **[Lead Data Scientist](https://jobr.pro/job/41045475/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 04 |
-| **[DailyPay](https://www.dailypay.com/)** | **[Senior Data Scientist](https://jobr.pro/job/41038508/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | NYC Headquarters | Remote | Jun 04 |
 
 ---
 
-**Current Stats:** 47 jobs | 100% remote | 40 companies | Avg salary: 1.819036158985542e+66k  
+**Current Stats:** 47 jobs | 100% remote | 39 companies | Avg salary: 1.9844030825296816e+60k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
