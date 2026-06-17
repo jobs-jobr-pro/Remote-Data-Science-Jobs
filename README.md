@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 16, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Clarity AI](https://clarity.ai)** | **[Data Scientist](https://jobr.pro/job/41221146/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 16 |
 | **[Valtech](https://valtech.info)** | **[Senior Data Scientist](https://jobr.pro/job/41220102/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kosovo - Remote | Remote | Jun 16 |
 | **[Surfshark](https://surfshark.com)** | **[Mid/Senior Data Scientist (Incogni)](https://jobr.pro/job/41219460/midsenior-data-scientist-incogni?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Vilnius | Remote | Jun 16 |
 | **[TENTENS Tech](https://tentens.tech)** | **[Data Scientist](https://jobr.pro/job/41219069/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kyiv, Lviv, Warsaw | Remote | Jun 16 |
@@ -22,9 +23,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Iliad - Free](https://en.wikipedia.org)** | **[Data Scientist - dataTV - Paris H/F](https://jobr.pro/job/41214222/data-scientist-datatv-paris-hf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 16 |
 | **[Merkle Science](https://merklescience.com)** | **[Data Scientist — Blockchain Intelligence](https://jobr.pro/job/41216369/data-scientist-blockchain-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Belgium | Remote | Jun 16 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Scientist](https://jobr.pro/job/41212909/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Shanghai, SH, China | Remote | Jun 16 |
+| **[Tiger Analytics Inc.](https://www.tigeranalytics.com)** | **[Senior Data Scientist - Customer Loyalty](https://jobr.pro/job/41222348/senior-data-scientist-customer-loyalty?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | Jun 16 |
 | **[Tiger Analytics Inc.](https://www.tigeranalytics.com)** | **[Lead Data Scientist- Recommendation Systems](https://jobr.pro/job/41215096/lead-data-scientist-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | California, United States | Remote | Jun 16 |
 | **[Adswerve, Inc](https://adswerve.com)** | **[Sr. Data Scientist 3 (South Africa)](https://jobr.pro/job/41207377/sr-data-scientist-3-south-africa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | South Africa - Remote | Remote | Jun 15 |
 | **[Calm.com](https://calmfund.com)** | **[Senior Data Scientist](https://jobr.pro/job/41206253/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA; New York City, NY; Minneapolis, MN, US Remote | Remote | Jun 15 |
+| **[VRChat](https://vrchat.com)** | **[Senior Data Scientist](https://jobr.pro/job/41222811/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Anywhere | Remote | Jun 15 |
 | **[Apollo.io](https://www.apollo.io)** | **[Staff Data Scientist - Product](https://jobr.pro/job/41201326/staff-data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, United States | Remote | Jun 15 |
 | **[Jerry.ai](https://jerry.ai)** | **[Staff Data Scientist](https://jobr.pro/job/41203157/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
 | **[Jerry](https://www.jerry.ai)** | **[Staff Data Scientist](https://jobr.pro/job/41201297/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Continental](https://www.continental.com/en/)** | **[(Senior) Data Scientist](https://jobr.pro/job/41167773/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lousado, Braga, Portugal | Remote | Jun 12 |
 | **[Binance](https://www.binance.us/)** | **[Binance Accelerator Program - Data Scientist (Recommendation/Square Community)](https://jobr.pro/job/41166850/binance-accelerator-program-data-scientist-recommendationsquare-community?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Asia | Remote | Jun 12 |
 | **[Found](https://found.com)** | **[Senior Data Scientist, Risk](https://jobr.pro/job/41161387/senior-data-scientist-risk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, New York or Remote (USA) | Remote | Jun 11 |
-| **[Mudflap](https://www.mudflapinc.com/)** | **[Senior Data Scientist, Pricing](https://jobr.pro/job/41160149/senior-data-scientist-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Palo Alto, CA | Remote | Jun 11 |
-| **[Mudflap](https://www.mudflapinc.com/)** | **[Senior Data Scientist, Product](https://jobr.pro/job/41160148/senior-data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Palo Alto, CA | Remote | Jun 11 |
-| **[Mudflap](https://www.mudflapinc.com/)** | **[Senior Data Scientist, Risk](https://jobr.pro/job/41160147/senior-data-scientist-risk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Palo Alto, CA | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 36 companies | Avg salary: 4.08001125001475e+114k  
+**Current Stats:** 50 jobs | 100% remote | 37 companies | Avg salary: 4.800013235311471e+96k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
