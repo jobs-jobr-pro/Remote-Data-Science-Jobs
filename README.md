@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Traackr](https://traackr.com)** | **[Data Scientist](https://jobr.pro/job/41228023/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Mexico | Remote | Jun 16 |
+| **[Docebo](https://docebo.com)** | **[Senior Data Scientist (SEO & AI)](https://jobr.pro/job/41226688/senior-data-scientist-seo-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Athens, Georgia | Remote | Jun 16 |
 | **[Clarity AI](https://clarity.ai)** | **[Data Scientist](https://jobr.pro/job/41221146/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 16 |
 | **[Valtech](https://valtech.info)** | **[Senior Data Scientist](https://jobr.pro/job/41220102/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kosovo - Remote | Remote | Jun 16 |
 | **[Surfshark](https://surfshark.com)** | **[Mid/Senior Data Scientist (Incogni)](https://jobr.pro/job/41219460/midsenior-data-scientist-incogni?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Vilnius | Remote | Jun 16 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[NielsenIQ](https://nielseniq.com)** | **[Sr Data Scientist (Research Focus)](https://jobr.pro/job/41170269/sr-data-scientist-research-focus?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Bogota, , Colombia | Remote | Jun 12 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Data Scientist People Data Analytics & Insights](https://jobr.pro/job/41170726/data-scientist-people-data-analytics-insights?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Pune, Maharashtra, India | Remote | Jun 12 |
 | **[Continental](https://www.continental.com/en/)** | **[(Senior) Data Scientist](https://jobr.pro/job/41167773/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lousado, Braga, Portugal | Remote | Jun 12 |
-| **[Binance](https://www.binance.us/)** | **[Binance Accelerator Program - Data Scientist (Recommendation/Square Community)](https://jobr.pro/job/41166850/binance-accelerator-program-data-scientist-recommendationsquare-community?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Asia | Remote | Jun 12 |
-| **[Found](https://found.com)** | **[Senior Data Scientist, Risk](https://jobr.pro/job/41161387/senior-data-scientist-risk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, New York or Remote (USA) | Remote | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 37 companies | Avg salary: 4.800013235311471e+96k  
+**Current Stats:** 50 jobs | 100% remote | 37 companies | Avg salary: 5.000048000132353e+95k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
