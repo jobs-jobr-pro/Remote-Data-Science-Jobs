@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Feedzai](https://careers.feedzai.com)** | **[Senior Data Scientist](https://jobr.pro/job/41241731/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil Remote | Remote | Jun 17 |
 | **[bet365](https://www.bet365careers.com)** | **[Lead Data Scientist, Sports](https://jobr.pro/job/41234279/lead-data-scientist-sports?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Manchester, England, United Kingdom | Remote | Jun 17 |
 | **[Iliad - Free](https://en.wikipedia.org)** | **[Data Scientist - dataTV - Paris H/F](https://jobr.pro/job/41232272/data-scientist-datatv-paris-hf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 17 |
 | **[Globaldev Group](https://globaldev.tech)** | **[Senior Data Scientist](https://jobr.pro/job/41238546/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Armenia | Remote | Jun 17 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[COVEA](https://vetreriacoveavetri.it)** | **[Data scientist F/H](https://jobr.pro/job/41174447/data-scientist-fh?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 12 |
 | **[iFood](https://ifoodieapp.com)** | **[Data Scientist 5](https://jobr.pro/job/41211298/data-scientist-5?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 12 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Data Scientist People Data Analytics & Insights](https://jobr.pro/job/41170726/data-scientist-people-data-analytics-insights?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Pune, Maharashtra, India | Remote | Jun 12 |
-| **[Continental](https://www.continental.com/en/)** | **[(Senior) Data Scientist](https://jobr.pro/job/41167773/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lousado, Braga, Portugal | Remote | Jun 12 |
 
 ---
 
