@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[BarmeniaGothaer AG](https://www.barmeniagothaer.de)** | **[Data Scientist* Inputmanagement](https://jobr.pro/job/41318886/data-scientist-inputmanagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Köln, North Rhine-Westphalia, Germany | Remote | Jun 22 |
 | **[XYZ Reality](https://www.xyzreality.com)** | **[Data Scientist - Construction Tech](https://jobr.pro/job/41314324/data-scientist-construction-tech?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London Office | Remote | Jun 22 |
 | **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Senior Data Scientist - BEES Logistics](https://jobr.pro/job/41296870/senior-data-scientist-bees-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 19 |
 | **[OnHires](https://onhires.com)** | **[Data Scientist (Early Hire, Full Model Ownership, B2C SaaS \| Remote EU/UA)](https://jobr.pro/job/41283690/data-scientist-early-hire-full-model-ownership-b2c-saas-remote-euua?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote Europe | Remote | Jun 19 |
@@ -27,7 +28,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Data Scientist, Marketing](https://jobr.pro/job/41266292/sr-data-scientist-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 18 |
 | **[Inetum](https://www.inetum.com)** | **[Data Scientist STD](https://jobr.pro/job/41263079/data-scientist-std?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Bogotá, Bogota, Colombia | Remote | Jun 18 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Data Scientist, Marketing Inference](https://jobr.pro/job/41268419/data-scientist-marketing-inference?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US - Remote | Remote | Jun 18 |
-| **[Delivery Hero](https://www.talabat.com)** | **[Senior Product Data Scientist](https://jobr.pro/job/41257856/senior-product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Barcelona, , Spain | Remote | Jun 18 |
 | **[ILLUIN Technology](https://illuin.com)** | **[Data Scientist / AI Engineer (F/H)](https://jobr.pro/job/41272766/data-scientist-ai-engineer-fh?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris La Défense | Remote | Jun 18 |
 | **[Weekday AI](https://www.weekday.works)** | **[Data Scientist](https://jobr.pro/job/41260028/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | India | Remote | Jun 18 |
 | **[Smarsh](https://smarsh.com)** | **[Lead Data Scientist](https://jobr.pro/job/41249916/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Atlanta | Remote | Jun 17 |
@@ -44,29 +44,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TENTENS Tech](https://tentens.tech)** | **[Data Scientist](https://jobr.pro/job/41219069/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kyiv, Lviv, Warsaw | Remote | Jun 16 |
 | **[SKELAR](https://www.skelar.tech)** | **[Data Scientist](https://jobr.pro/job/41218656/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kyiv, Lviv, Warsaw | Remote | Jun 16 |
 | **[SKELAREngУкрContact Ushello@skelar.tech71 Kostiantynivska Street](https://skelar.io)** | **[Data Scientist](https://jobr.pro/job/41215397/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Kyiv, Lviv, Warsaw | Remote | Jun 16 |
-| **[InPost](https://inpost.id)** | **[Junior Data Scientist (f/m/n)](https://jobr.pro/job/41215523/junior-data-scientist-fmn?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Powiat świecki, Województwo kujawsko-pomorskie, Poland | Remote | Jun 16 |
 | **[Fundamental](https://fundamental.tech)** | **[Data Scientist (Forward Deployed)](https://jobr.pro/job/41235660/data-scientist-forward-deployed?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US (remote) | Remote | Jun 16 |
 | **[Merkle Science](https://merklescience.com)** | **[Data Scientist — Blockchain Intelligence](https://jobr.pro/job/41216369/data-scientist-blockchain-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Belgium | Remote | Jun 16 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Data Scientist](https://jobr.pro/job/41212909/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Shanghai, SH, China | Remote | Jun 16 |
 | **[Scaling.com](http://scaling.com)** | **[Scaling Research Data Scientist](https://jobr.pro/job/41234490/scaling-research-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Utah, United States | Remote | Jun 16 |
 | **[Tiger Analytics Inc.](https://www.tigeranalytics.com)** | **[Senior Data Scientist - Customer Loyalty](https://jobr.pro/job/41222348/senior-data-scientist-customer-loyalty?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | United States | Remote | Jun 16 |
 | **[Tiger Analytics Inc.](https://www.tigeranalytics.com)** | **[Lead Data Scientist- Recommendation Systems](https://jobr.pro/job/41215096/lead-data-scientist-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | California, United States | Remote | Jun 16 |
 | **[VRChat](https://vrchat.com)** | **[Senior Data Scientist](https://jobr.pro/job/41222811/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Anywhere | Remote | Jun 15 |
 | **[Apollo.io](https://www.apollo.io)** | **[Staff Data Scientist - Product](https://jobr.pro/job/41201326/staff-data-scientist-product?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, United States | Remote | Jun 15 |
-| **[Jerry.ai](https://jerry.ai)** | **[Staff Data Scientist](https://jobr.pro/job/41203157/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry](https://www.jerry.ai)** | **[Staff Data Scientist](https://jobr.pro/job/41201297/staff-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry.ai](https://jerry.ai)** | **[Senior Data Scientist](https://jobr.pro/job/41203155/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry](https://www.jerry.ai)** | **[Senior Data Scientist](https://jobr.pro/job/41201295/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry.ai](https://jerry.ai)** | **[Data Scientist](https://jobr.pro/job/41203153/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry](https://www.jerry.ai)** | **[Data Scientist](https://jobr.pro/job/41201293/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry.ai](https://jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41203151/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Jerry](https://www.jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41201291/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Los Angeles, California | Remote | Jun 15 |
-| **[Semgrep](https://semgrep.dev)** | **[Senior Data Scientist](https://jobr.pro/job/41209191/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco Office | Remote | Jun 15 |
-| **[OpenAI](https://openai.com)** | **[People Research Data Scientist, AI Fairness & Bias](https://jobr.pro/job/41203945/people-research-data-scientist-ai-fairness-bias?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco | Remote | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 41 companies | Avg salary: 8.00001200001314e+112k  
+**Current Stats:** 38 jobs | 100% remote | 36 companies | Avg salary: 1.6000024000026278e+53k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** ai  
