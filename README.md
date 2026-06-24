@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 23, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 24, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ibotta](https://ibotta.com)** | **[Decision Scientist, Core Data & Analytics](https://jobr.pro/job/41350491/decision-scientist-core-data-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Hybrid - Denver | Remote | Jun 23 |
 | **[ARQ](https://arq.com)** | **[Senior Data Scientist](https://jobr.pro/job/41342994/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | Jun 23 |
 | **[COVEA](https://covearth.co.jp)** | **[Data scientist F/H](https://jobr.pro/job/41342198/data-scientist-fh?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 23 |
 | **[BDO](https://www.werkenbijbdo.nl)** | **[Data Scientist Deal Advisory](https://jobr.pro/job/41339849/data-scientist-deal-advisory?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Utrecht, UT, Netherlands | Remote | Jun 23 |
@@ -54,13 +55,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MNTN](https://mountain.com)** | **[Senior Data Scientist](https://jobr.pro/job/41261110/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 17 |
 | **[Feedzai](https://careers.feedzai.com)** | **[Senior Data Scientist](https://jobr.pro/job/41241731/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil Remote | Remote | Jun 17 |
 | **[Iliad - Free](https://en.wikipedia.org)** | **[Data Scientist - dataTV - Paris H/F](https://jobr.pro/job/41232272/data-scientist-datatv-paris-hf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 17 |
-| **[Globaldev Group](https://globaldev.tech)** | **[Senior Data Scientist](https://jobr.pro/job/41238546/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Armenia | Remote | Jun 17 |
-| **[Traackr](https://traackr.com)** | **[Data Scientist](https://jobr.pro/job/41228023/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Mexico | Remote | Jun 16 |
-| **[Docebo](https://docebo.com)** | **[Senior Data Scientist (SEO & AI)](https://jobr.pro/job/41226688/senior-data-scientist-seo-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Athens, Georgia | Remote | Jun 16 |
 
 ---
 
-**Current Stats:** 44 jobs | 100% remote | 36 companies | Avg salary: 8.947377894745639e+107k  
+**Current Stats:** 42 jobs | 100% remote | 34 companies | Avg salary: 5.315798421062106e+108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
