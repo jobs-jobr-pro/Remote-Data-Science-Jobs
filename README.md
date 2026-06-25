@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 25, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,8 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Acumatica](https://www.acumatica.com)** | **[Associate Data Scientist](https://jobr.pro/job/41380382/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Colombo, WP, Sri Lanka | Remote | Jun 25 |
+| **[Only External Postings](https://scoutify.com)** | **[Machine Learning Data Scientist – Research Translation & Prototyping](https://jobr.pro/job/41378171/machine-learning-data-scientist-research-translation-prototyping?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote | Remote | Jun 24 |
 | **[Avery Dennison](https://www.averydennison.com)** | **[Data Scientist](https://jobr.pro/job/41374843/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Mentor, OH, United States | Remote | Jun 24 |
-| **[Forward%20financing]()** | **[Lead Data Scientist](https://jobr.pro/job/41368348/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - Alberta, Canada | Remote | Jun 24 |
+| **[Forward%20financing]()** | **[Lead Data Scientist](https://jobr.pro/job/41378866/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - Alberta, Canada | Remote | Jun 24 |
 | **[SIXT](https://www.sixt.com)** | **[Senior Data Scientist - Marketing (m/f/d)](https://jobr.pro/job/41366581/senior-data-scientist-marketing-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lisbon, , Portugal | Remote | Jun 24 |
 | **[Syngenta Group](https://www.syngenta.com)** | **[Data Scientist](https://jobr.pro/job/41366397/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Sao Paulo, SÃO PAULO, Brazil | Remote | Jun 24 |
 | **[SIXT](https://www.sixt.com)** | **[Senior Data Scientist – Operations Research (Revenue Management & Price Optimization) (m/f/d)](https://jobr.pro/job/41365229/senior-data-scientist-operations-research-revenue-management-price-optimization-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lisbon, , Portugal | Remote | Jun 24 |
@@ -61,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Data Scientist, Marketing](https://jobr.pro/job/41266292/sr-data-scientist-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 18 |
 | **[Inetum](https://www.inetum.com)** | **[Data Scientist STD](https://jobr.pro/job/41263079/data-scientist-std?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Bogotá, Bogota, Colombia | Remote | Jun 18 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Data Scientist, Marketing Inference](https://jobr.pro/job/41268419/data-scientist-marketing-inference?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US - Remote | Remote | Jun 18 |
-| **[ILLUIN Technology](https://illuin.com)** | **[Data Scientist / AI Engineer (F/H)](https://jobr.pro/job/41272766/data-scientist-ai-engineer-fh?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris La Défense | Remote | Jun 18 |
 
 ---
 
-**Current Stats:** 49 jobs | 100% remote | 37 companies | Avg salary: 4.839342500010417e+138k  
+**Current Stats:** 50 jobs | 100% remote | 38 companies | Avg salary: 6.2000046457687996e+144k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
