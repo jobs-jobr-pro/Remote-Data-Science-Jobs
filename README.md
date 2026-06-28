@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Brego](https://www.brego.io)** | **[Lead Data Scientist](https://jobr.pro/job/41460054/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Silverstone, United Kingdom | Remote | Jun 28 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Data Scientist, Performance Marketing](https://jobr.pro/job/41437057/sr-data-scientist-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 26 |
 | **[CI&T](https://www.citi.com)** | **[\[Job - 30085\] Senior Data Scientist (LLM), Brazil](https://jobr.pro/job/41432691/job-30085-senior-data-scientist-llm-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil | Remote | Jun 26 |
 | **[Cint](https://www.cint.com)** | **[Data Scientist](https://jobr.pro/job/41431537/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote, Remote, United Kingdom | Remote | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Jerry](https://www.jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41330666/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, New York | Remote | Jun 22 |
 | **[Jerry.ai](https://jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41323513/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco Bay Area | Remote | Jun 22 |
 | **[Jerry](https://www.jerry.ai)** | **[Data Scientist](https://jobr.pro/job/41330664/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, New York | Remote | Jun 22 |
-| **[Jerry.ai](https://jerry.ai)** | **[Data Scientist](https://jobr.pro/job/41323511/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, New York | Remote | Jun 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 42 companies | Avg salary: 1.4387458500008e+115k  
+**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 5.500014387458501e+114k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
