@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NielsenIQ](https://nielseniq.com)** | **[Senior Data Scientist](https://jobr.pro/job/41461882/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Bogota, DC, Colombia | Remote | Jun 28 |
+| **[Airbnb](https://careers.airbnb.com)** | **[Data Scientist - Inference, Community Support](https://jobr.pro/job/41461738/data-scientist-inference-community-support?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | Jun 28 |
+| **[Airbnb](https://careers.airbnb.com)** | **[Data Scientist - Algorithms, Community Support](https://jobr.pro/job/41461737/data-scientist-algorithms-community-support?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Remote - USA | Remote | Jun 28 |
 | **[Brego](https://www.brego.io)** | **[Lead Data Scientist](https://jobr.pro/job/41460054/lead-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Silverstone, United Kingdom | Remote | Jun 28 |
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Sr. Data Scientist, Performance Marketing](https://jobr.pro/job/41437057/sr-data-scientist-performance-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 26 |
 | **[CI&T](https://www.citi.com)** | **[\[Job - 30085\] Senior Data Scientist (LLM), Brazil](https://jobr.pro/job/41432691/job-30085-senior-data-scientist-llm-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Brazil | Remote | Jun 26 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Spotify](https://spotify.com)** | **[Data Scientist - Discovery Mode](https://jobr.pro/job/41327334/data-scientist-discovery-mode?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, NY | Remote | Jun 22 |
 | **[Binance.us](https://binance.us.com)** | **[Senior Product Data Scientist](https://jobr.pro/job/41343170/senior-product-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Dubai | Remote | Jun 22 |
 | **[Binance.us](https://binance.us.com)** | **[Senior Growth Data Scientist](https://jobr.pro/job/41343168/senior-growth-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | U.S. | Remote | Jun 22 |
-| **[Jerry](https://www.jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41330666/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, New York | Remote | Jun 22 |
-| **[Jerry.ai](https://jerry.ai)** | **[Associate Data Scientist](https://jobr.pro/job/41323513/associate-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco Bay Area | Remote | Jun 22 |
-| **[Jerry](https://www.jerry.ai)** | **[Data Scientist](https://jobr.pro/job/41330664/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | New York, New York | Remote | Jun 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 5.500014387458501e+114k  
+**Current Stats:** 50 jobs | 100% remote | 42 companies | Avg salary: 9.21053552632158e+108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** machine learning, ai  
