@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Data Scientist Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Data Scientist job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sporty Group](https://sportygroup.com)** | **[Data Scientist (Europe, Asia)](https://jobr.pro/job/41474536/data-scientist-europe-asia?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Global - Remote | Remote | Jun 29 |
 | **[Experian](https://www.experian.com)** | **[Data Scientist](https://jobr.pro/job/41469592/data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Lysaker, Akershus, Norway | Remote | Jun 29 |
 | **[bet365](https://www.bet365careers.com)** | **[Junior Data Scientist](https://jobr.pro/job/41469542/junior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Denver, Colorado, United States | Remote | Jun 29 |
 | **[Talan](https://www.talan.com)** | **[Data Scientist Confirmé - H/F - CDI](https://jobr.pro/job/41469466/data-scientist-confirme-hf-cdi?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterestcareers.com)** | **[Staff Data Scientist, Forecasting](https://jobr.pro/job/41351705/staff-data-scientist-forecasting?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jun 23 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Staff Data Scientist, Marketing Inference](https://jobr.pro/job/41365432/staff-data-scientist-marketing-inference?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | US - Remote | Remote | Jun 23 |
 | **[ARQ](https://arq.com)** | **[Senior Data Scientist](https://jobr.pro/job/41355230/senior-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | London | Remote | Jun 23 |
-| **[COVEA](https://covearth.co.jp)** | **[Data scientist F/H](https://jobr.pro/job/41342198/data-scientist-fh?utm_source=github&utm_medium=repo&utm_campaign=github-remote-data-science-jobs)** | Paris, IDF, France | Remote | Jun 23 |
 
 ---
 
